@@ -34,6 +34,7 @@ setup(
     install_requires=[
         "django>=2.2",
         "pillow",
+        "reportlab",
     ],
     extras_require={
         "svg": [
